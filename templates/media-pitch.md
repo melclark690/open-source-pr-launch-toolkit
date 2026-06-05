@@ -1,16 +1,31 @@
-The Tech Journalist Pitch Template
-Subject: Pitch: An open-source toolkit to fix broken tech PR launches
-Hi [Journalist Name],
-Most open-source projects fail to gain traction not because of bad code, but because of poor launch execution. Maintainers rarely have the PR background needed to pitch media, manage ecosystem crises, or train executives for live interviews.
-To solve this, we just launched [Project Name] on GitHub: [Insert GitHub Repository URL Here].
-It is a fully open-source, community-driven PR & Product Launch Toolkit designed specifically for developers and maintainers. The repository includes step-by-step launch checklists, media pitch templates, and a complete 7-slide native Media Training Deck covering live interview bridging techniques and security triage.
-Why this matters for your readers:
-Democratizes Tech PR: Gives underfunded open-source startups the same launch frameworks used by enterprise marketing firms.
-Built for Devs: Completely text-based, version-controlled markdown documents that integrate directly into a standard software development workflow.
-Open-Source Security Frameworks: Includes specific crisis mitigation playbooks for handling sudden zero-day vulnerabilities in the public eye.
-Are you working on any upcoming stories regarding open-source sustainability, developer tools, or tech startup launch strategies where this would be a great fit?
+# 📧 Tech Journalist Pitch Template
+
+Use this template to reach out to writers at technology publications (such as *The New Stack*, *TechCrunch*, or *VentureBeat*). Make sure to customize all brackets before sending.
+
+***
+
+**Subject:** Pitch: An open-source toolkit to fix broken tech PR launches
+
+Hi **[Journalist Name]**,
+
+Most open-source projects fail to gain traction not because of bad code, but because of poor launch execution. Maintainers rarely have the PR background needed to pitch media, manage ecosystem crises, or train executives for live interviews. 
+
+To solve this, we just launched **[Project Name]** on GitHub: **[Insert GitHub Repository URL Here]**.
+
+It is a fully open-source, community-driven **PR & Product Launch Toolkit** designed specifically for developers and maintainers. The repository includes step-by-step launch checklists, media pitch templates, and a complete 7-slide native **Media Training Deck** covering live interview bridging techniques and security triage.
+
+**Why this matters for your readers:**
+
+*   **Democratizes Tech PR:** Gives underfunded open-source startups the same launch frameworks used by enterprise marketing firms.
+*   **Built for Devs:** Completely text-based, version-controlled markdown documents that integrate directly into a standard software development workflow.
+*   **Open-Source Security Frameworks:** Includes specific crisis mitigation playbooks for handling sudden zero-day vulnerabilities in the public eye.
+
+Are you working on any upcoming stories regarding open-source sustainability, developer tools, or tech startup launch strategies where this would be a great fit? 
+
 I would love to send over our media kit or jump on a brief 10-minute call to show you the toolkit.
+
 Best regards,
-[Your Name]
-[Your Title / Project Maintainer]
-[Your GitHub Profile Link]
+
+**[Your Name]**  
+**[Your Title / Project Maintainer]**  
+**[Your GitHub Profile Link]**
