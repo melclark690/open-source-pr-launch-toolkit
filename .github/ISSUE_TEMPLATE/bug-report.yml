@@ -1,1 +1,38 @@
-
+name: "🐛 Bug Report"
+description: "File a structured bug report to help us fix codebase errors."
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: textarea
+    id: current-behavior
+    attributes:
+      label: "Current Behavior"
+      description: "A clear and concise description of what the bug is."
+      placeholder: "Tell us exactly what happened..."
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: "Steps to Reproduce"
+      description: "Step-by-step instructions to recreate the bug."
+      placeholder: "1. Run command... 2. Click on... 3. See error..."
+    validations:
+      required: true
+  - type: input
+    id: environment-info
+    attributes:
+      label: "Environment Details"
+      description: "What OS, runtime version, or package manager are you using?"
+      placeholder: "e.g., Node v24, macOS, npm"
+    validations:
+      required: true
+  - type: checkboxes
+    id: verification-checks
+    attributes:
+      label: "Verification Checks"
+      options:
+        - label: "I have searched existing issues to ensure this is not a duplicate."
+          required: true
+        - label: "I am using the latest version of the project codebase."
+          required: true
