@@ -48,4 +48,40 @@ I’ve followed your coverage of...
 ---
 
 ## 🎤 Deck 1: Media Training Slides
-*(We will add the slide content here next!)*
+
+This educational deck prepares core maintainers and executives for public interviews, live podcasts, and open-source ecosystem crisis triage.
+
+### 🛝 Slide 1: The Core Narrative & "Why Now"
+*   **Objective:** Establish the foundation of why the project exists.
+*   **Key Message:** Clearly state the immediate developer pain point the project solves without using corporate marketing jargon.
+*   **Media Trap:** Avoid spending too much time on background history; get to the functional value within the first 30 seconds.
+
+### 🛝 Slide 2: Navigating the License Discussion
+*   **Objective:** Address potential community or journalist questions regarding your open-source license choices (e.g., MIT, Apache 2.0).
+*   **Key Message:** Confirm our long-term commitment to open-source governance and absolute developer freedom.
+*   **Media Trap:** Never sound defensive about licensing choices; pivot directly to how the chosen model protects contributors and users.
+
+### 🛝 Slide 3: Handling Commercialization Questions
+*   **Objective:** Clearly delineate the boundary between the free open-source project and any future commercial offerings.
+*   **Key Message:** Core functionalities will remain open-source forever. Commercial features (if applicable) focus strictly on enterprise scale or cloud hosting.
+*   **Media Trap:** Do not give vague answers about monetization, as this creates community distrust. Stick to transparent boundaries.
+
+### 🛝 Slide 4: Managing Live Code Failure & Tech Glitches
+*   **Objective:** Maintain absolute composure if a live demo crashes during a podcast or presentation.
+*   **Key Message:** "This is exactly why we are open-source—to find edge cases, iterate transparently, and improve with community data."
+*   **Media Trap:** Do not panic or blame a specific developer on your team. Use it as an authentic moment to show how your team debugs problems.
+
+### 🛝 Slide 5: Crisis Triage: Handling Exploits & Vulnerabilities
+*   **Objective:** Outline the precise communication protocol if a critical security vulnerability is found publicly.
+*   **Key Message:** Acknowledge the issue immediately, point to the security policy file (`SECURITY.md`), and provide a clear timeline for the patch deployment.
+*   **Media Trap:** Never minimize a security risk or ignore a public issue report; transparency builds ultimate developer trust.
+
+### 🛝 Slide 6: Responding to Negative Community Feedback
+*   **Objective:** De-escalate aggressive forum threads (e.g., Reddit, Hacker News) or critical comments.
+*   **Key Message:** Pivot negative feedback into collaborative input: "That is a valid architectural point. Here is an RFC link where we can build a fix together."
+*   **Media Trap:** Avoid getting into defensive text arguments or emotional back-and-forths with community trolls.
+
+### 🛝 Slide 7: The Master Call to Action (CTA)
+*   **Objective:** Leave the audience or journalist with one single, high-impact action step.
+*   **Key Message:** "Visit our repository, star the project if it solves your problem, and check out our Good First Issues."
+*   **Media Trap:** Do not dilute your ending by asking people to follow five different social accounts; direct all traffic to the GitHub repo.
