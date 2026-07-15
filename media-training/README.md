@@ -5,3 +5,4 @@ This toolkit provides a modular framework to successfully launch your open-sourc
 * [📋 Launch Checklists](./LAUNCH_PLAN.md) — Step-by-step countdown trackers for pre-launch, launch day, and post-launch milestones.
 * [📧 Press & Communication Templates](./LAUNCH_PLAN.md#-press--communication-templates) — Ready-to-use email pitches and hacker news copy blueprints.
 * [🎤 Deck 1: Media Training Slides](./LAUNCH_PLAN.md#-deck-1-media-training-slides) — A complete 7-slide educational deck designed to prepare core maintainers.
+* [🎤 Deck 2: Community Town Hall Slides](./LAUNCH_PLAN.md#-deck-2-community-town-hall-slides) — A 7-slide technical deck designed for live streams and developer roadmap alignment.
