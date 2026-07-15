@@ -1,1 +1,41 @@
-
+name: "🚀 Feature Request"
+description: "Suggest a new idea or feature concept for this codebase."
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea to make this project better? Please fill out the form below to propose your feature request.
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: "Is your feature request related to a problem?"
+      description: "A clear and concise description of what the problem or missing functionality is."
+      placeholder: "I find it difficult or tedious to..."
+    validations:
+      required: true
+  - type: textarea
+    id: solution-proposal
+    attributes:
+      label: "Describe the Solution You'd Like"
+      description: "A clear and concise description of what you want to happen or how the feature should behave."
+      placeholder: "It would be amazing if the project could automatically..."
+    validations:
+      required: true
+  - type: textarea
+    id: alternative-solutions
+    attributes:
+      label: "Describe Alternatives You've Considered"
+      description: "A clear and concise description of any alternative solutions or workarounds you've tried."
+      placeholder: "Right now, I am manually running a script that..."
+    validations:
+      required: false
+  - type: checkboxes
+    id: community-commitment
+    attributes:
+      label: "Are you willing to help build this?"
+      description: "Open source thrives on community help! Let us know if you want to collaborate."
+      options:
+        - label: "Yes, I am willing to write the code or documentation for this feature if guided by a maintainer."
+          required: false
