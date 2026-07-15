@@ -1,6 +1,4 @@
-# 📦 Open Source PR Launch Toolkit
-
-## 📋 Launch Checklists: Step-by-Step Countdown Trackers
+# 📋 Launch Checklists: Step-by-Step Countdown Trackers
 
 ### 🌅 Phase 1: Pre-Launch Verification (T - 2 Hours)
 - [ ] **Verify repository visibility** — Flip the GitHub repository from private to public.
@@ -27,3 +25,27 @@
 - [ ] **Resolve immediate setup blockers** — Ship rapid patch releases (`v1.0.1`) for installation bugs.
 - [ ] **Publish explicit "Good First Issues"** — Tag entry-level codebase tasks to welcome developers.
 - [ ] **Conduct the first Community Town Hall** — Run a live stream presentation detailing your 90-day roadmap.
+
+---
+
+## 📧 Press & Communication Templates
+
+### ⚡ 1. Hacker News "Show HN" Copy Blueprint
+```text
+Hi HN,
+We built [Project Name] because we were frustrated with [Insert developer pain point]...
+[Paste your full template text here]
+```
+
+### 📰 2. Tech Journalist Email Pitch Template
+```text
+Subject: Open Source Launch: [Project Name] solves [Core Tech Problem]
+Hi [Journalist Name],
+I’ve followed your coverage of...
+[Paste your full template text here]
+```
+
+---
+
+## 🎤 Deck 1: Media Training Slides
+*(We will add the slide content here next!)*
