@@ -31,18 +31,56 @@
 ## 📧 Press & Communication Templates
 
 ### ⚡ 1. Hacker News "Show HN" Copy Blueprint
+
 ```text
+Subject: Show HN: [Project Name] – An open-source [Brief description of what it does]
+
 Hi HN,
-We built [Project Name] because we were frustrated with [Insert developer pain point]...
-[Paste your full template text here]
+
+We built [Project Name] because we were frustrated with [Insert specific developer pain point]. Existing solutions either required too much vendor lock-in, were overly complex to set up, or simply cost too much for small-to-medium teams.
+
+What it does:
+* Core Feature 1 — High-density, short technical description of what it automates.
+* Core Feature 2 — Explanation of how it handles performance or developer experience.
+* Core Feature 3 — Note about safety, security, or self-hosting capabilities.
+
+The architecture is built using [Tech Stack / Languages], which allows us to achieve significant performance improvements and complete local privacy. We wanted to build something that feels lightweight but scales effortlessly.
+
+We are fully open-source under the [License Type, e.g., MIT] license and want to build this openly with the community. 
+
+Repository: [Paste your GitHub URL here]
+Documentation: [Paste your Docs URL here]
+
+We'll be hanging out in the comments today. We would love to hear your feedback on our architectural choices, code readability, and future feature roadmap!
 ```
 
 ### 📰 2. Tech Journalist Email Pitch Template
+
 ```text
 Subject: Open Source Launch: [Project Name] solves [Core Tech Problem]
+
 Hi [Journalist Name],
-I’ve followed your coverage of...
-[Paste your full template text here]
+
+I’ve followed your coverage of developer tools and open-source infrastructure at [Publication Name], and I thought your readers would be interested in a new shift happening in this ecosystem.
+
+Today, we are publicly launching [Project Name], a modular, open-source framework designed to solve [Core Tech Problem] for developers. 
+
+Unlike legacy or commercial tools, [Project Name] introduces [Insert unique innovation, e.g., completely local execution / a 10x faster setup pipeline].
+
+Why this matters for your readers right now:
+* **Ecosystem Shift:** Developers are actively pushing back against closed-source pricing cliffs and vendor lock-in.
+* **Developer Freedom:** It eliminates licensing restrictions by being fully self-hostable under a permissive open-source license.
+* **Production Ready:** Early community testers include teams optimizing their workflows at scaling engineering organizations.
+
+Our full press kit, media graphics, and public code repository can be accessed here: [Link to GitHub Repository or Press folder].
+
+Are you available for a brief, 10-minute briefing or a look at our live demo early this week?
+
+Best regards,
+
+[Your Name]  
+[Your Title/Role]  
+[Your Contact Info / Link to Schedule]
 ```
 
 ---
