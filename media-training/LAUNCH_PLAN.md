@@ -85,3 +85,43 @@ This educational deck prepares core maintainers and executives for public interv
 *   **Objective:** Leave the audience or journalist with one single, high-impact action step.
 *   **Key Message:** "Visit our repository, star the project if it solves your problem, and check out our Good First Issues."
 *   **Media Trap:** Do not dilute your ending by asking people to follow five different social accounts; direct all traffic to the GitHub repo.
+---
+
+## 🎤 Deck 2: Community Town Hall Slides
+
+This 7-slide technical deck is designed for live streams, community office hours, and developer ecosystem alignment meetings.
+
+### 🛝 Slide 1: Vision & Origin
+*   **Objective:** Re-engage the community on why this project was built.
+*   **Key Message:** Present the specific developer friction point that triggered this codebase and our mission to solve it.
+*   **Visual Element:** High-contrast graphic showing the "Before vs. After" workflow efficiency gains.
+
+### 🛝 Slide 2: Architecture Deep Dive
+*   **Objective:** Give engineers a transparent look under the hood of the project.
+*   **Key Message:** Walk through the high-level codebase structure, key module relationships, and language choices.
+*   **Visual Element:** A clean, simplified system architecture block diagram.
+
+### 🛝 Slide 3: The Project Roadmap
+*   **Objective:** Set clear expectations for what your engineering team is building next.
+*   **Key Message:** Outline immediate 30-day bug priorities, 90-day feature milestones, and our 1-year project vision.
+*   **Visual Element:** A chronological milestone timeline grid.
+
+### 🛝 Slide 4: Contribution Pathways
+*   **Objective:** Lower the barrier to entry for external developer contributions.
+*   **Key Message:** Show exactly how to find "Good First Issues," submit a pull request, and get code reviewed.
+*   **Visual Element:** Screenshot highlighting our GitHub issue tags and `CONTRIBUTING.md` path.
+
+### 🛝 Slide 5: Governance Model
+*   **Objective:** Explain how architectural decisions are finalized.
+*   **Key Message:** Introduce the Request for Comments (RFC) process, core maintainer voting rights, and how active contributors can earn maintainer status.
+*   **Visual Element:** Workflow flowchart tracking a feature idea from RFC submission to code merge.
+
+### 🛝 Slide 6: Community Hubs
+*   **Objective:** Centralize where developers should go to talk and ask questions.
+*   **Key Message:** Point users to our official communication channels, Discord servers, and recurring office hour schedules.
+*   **Visual Element:** Text blocks with direct links and scannable QR codes for chat invites.
+
+### 🛝 Slide 7: Call to Action (CTA)
+*   **Objective:** Mobilize the audience into immediate repository interaction.
+*   **Key Message:** Star the repository today, clone the main branch, and join our next developer discussion group.
+*   **Visual Element:** Bold GitHub URL card with large star and fork engagement icons.
