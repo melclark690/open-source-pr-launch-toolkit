@@ -26,5 +26,18 @@ If you want to directly add a new PR template, checklist, or communication frame
 * **Developer-Centric:** Focus on copy and strategies that prioritize developer awareness, open-source licensing compliance, and technical transparency.
 * **Accessible Language:** Use clear, professional, and accessible language to support global contributors and cross-functional teams.
 
-## ⚖️ Code of Conduct
-We expect all community contributors to maintain professional, respectful, and collaborative communication across all issues, pull requests, and discussions.
+## 🏷️ Finding an Issue
+* Look for issues labeled **`good first issue`** if you are new to the codebase.
+* Look for issues labeled **`help wanted`** for more advanced engineering tasks.
+* If you want to build a new feature, please open an issue to discuss it before writing code.
+
+## 🚀 Pull Request Checklist
+
+Before submitting your Pull Request (PR), make sure you check off these items:
+- [ ] **Tests pass:** Run the local test suite to ensure zero regressions.
+- [ ] **Documentation:** Update the README or docs if your code changes how a feature works.
+- [ ] **Clean commits:** Ensure your commit messages are descriptive and clear.
+- [ ] **Link the issue:** Add `Closes #123` in your PR description so the issue closes automatically when merged.
+
+## 🛡️ Code of Conduct
+By participating in this project, you agree to abide by our Code of Conduct. Please be respectful, welcoming, and collaborative with all community members.
