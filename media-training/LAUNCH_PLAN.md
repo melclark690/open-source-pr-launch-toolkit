@@ -90,6 +90,4 @@ Our full press kit, media graphics, and public code repository can be accessed h
 * **Repository Clones Count** — Measure unique Git clones to assess raw developer intent.
 * **Visitor Traffic Volume** — Monitor unique repository views to calculate landing page conversions.
 
-### 🗠 How to Access Your Analytics
-```text
-GitHub Repository Page -> Click "Insights" Tab -> Select "Traffic" or "Pulse" Menu
+
